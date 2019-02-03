@@ -1,9 +1,9 @@
 ---
 layout: post
-title: SOOK's Portfolio
+title: I design digital experience.
 ---
 
-I design digital experience. 
+ 
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
 
